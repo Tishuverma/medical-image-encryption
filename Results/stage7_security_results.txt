@@ -1,0 +1,24 @@
+STAGE 7 SECURITY ANALYSIS
+==========================
+
+Image dimensions: 447 x 447
+
+ENTROPY
+Original: 5.7803886139
+Encrypted: 7.9993438459
+
+CORRELATION COEFFICIENT
+Original Horizontal: 0.9976023698
+Original Vertical: 0.9958229190
+Original Diagonal: 0.9938561685
+Encrypted Horizontal: 0.0005853427
+Encrypted Vertical: 0.0034661349
+Encrypted Diagonal: 0.0025204290
+
+MSE / PSNR
+MSE: 14459.5501365662
+PSNR: 6.5292557941
+
+NPCR / UACI
+NPCR: 99.6845245361%
+UACI: 33.4693594540%

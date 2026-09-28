@@ -1,0 +1,55 @@
+============================================================
+STAGE 8 - VISUAL AND QUANTITATIVE VALIDATION
+============================================================
+
+IMAGE INFORMATION
+------------------------------------------------------------
+Original image shape: (447, 447)
+Encrypted image shape: (512, 512)
+Decrypted image shape: (447, 447)
+Padded original shape: (512, 512)
+
+DECRYPTION VERIFICATION
+------------------------------------------------------------
+ORIGINAL == DECRYPTED : PASSED
+Exact pixel recovery confirmed.
+
+DECRYPTION DIFFERENCE ANALYSIS
+------------------------------------------------------------
+Maximum pixel difference: 0
+Total absolute difference: 0
+Changed pixels: 0
+
+STAGE 7 SECURITY RESULTS
+------------------------------------------------------------
+STAGE 7 SECURITY ANALYSIS
+==========================
+
+Image dimensions: 447 x 447
+
+ENTROPY
+Original: 5.7803886139
+Encrypted: 7.9992884606
+
+CORRELATION COEFFICIENT
+Original Horizontal: 0.9976023698
+Original Vertical: 0.9958229190
+Original Diagonal: 0.9938561685
+Encrypted Horizontal: -0.0037259306
+Encrypted Vertical: -0.0011111386
+Encrypted Diagonal: 0.0031423726
+
+MSE / PSNR
+MSE: 14441.3553543091
+PSNR: 6.5347240619
+
+NPCR / UACI
+NPCR: 99.7104644775%
+UACI: 32.2537051930%
+
+GENERATED FIGURES
+------------------------------------------------------------
+/Users/tishuverma/Desktop/Image/stage8_results/stage8_image_comparison.png
+/Users/tishuverma/Desktop/Image/stage8_results/stage8_histogram_comparison.png
+/Users/tishuverma/Desktop/Image/stage8_results/stage8_difference_original_encrypted.png
+/Users/tishuverma/Desktop/Image/stage8_results/stage8_difference_original_decrypted.png
